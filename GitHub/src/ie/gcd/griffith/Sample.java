@@ -9,5 +9,10 @@ public class Sample {
 		// TODO Auto-generated method stub
 		
 	}
+	
+	
+	public static int amultiply(int x, int y){
+		return x*y;
+	}
 
 }
